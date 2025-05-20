@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team-6-Library-Terminal", "Team-6-Library-Terminal\Team-6-Library-Terminal\Team-6-Library-Terminal.csproj", "{4B5B4CB2-FE12-4332-B1ED-6FD4621E6572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team-6-Library-Terminal.Sample", "Team-6-Library-Terminal\Team-6-Library-Terminal.Sample\Team-6-Library-Terminal.Sample.csproj", "{FE35BA52-23A2-45FA-9861-B203A16FF022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team-6-Library-Terminal.Tests", "Team-6-Library-Terminal\Team-6-Library-Terminal.Tests\Team-6-Library-Terminal.Tests.csproj", "{EA4734D8-346D-4557-96BB-29A9DDBD55EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5B4CB2-FE12-4332-B1ED-6FD4621E6572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5B4CB2-FE12-4332-B1ED-6FD4621E6572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5B4CB2-FE12-4332-B1ED-6FD4621E6572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5B4CB2-FE12-4332-B1ED-6FD4621E6572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE35BA52-23A2-45FA-9861-B203A16FF022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE35BA52-23A2-45FA-9861-B203A16FF022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE35BA52-23A2-45FA-9861-B203A16FF022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE35BA52-23A2-45FA-9861-B203A16FF022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4734D8-346D-4557-96BB-29A9DDBD55EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4734D8-346D-4557-96BB-29A9DDBD55EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4734D8-346D-4557-96BB-29A9DDBD55EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4734D8-346D-4557-96BB-29A9DDBD55EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "DebugRoslynAnalyzers": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "../Team_6_Library_Terminal.Sample/Team_6_Library_Terminal.Sample.csproj"
+    }
+  }
+}
